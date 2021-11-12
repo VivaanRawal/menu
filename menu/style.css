@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(45, 45, 42);
+    
+
+    
+}
+head{
+    color: rgb(156, 153, 153);
+    
+}
+button{
+    color: darkslategray;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height: 200;
+    width:200;
+}
+#sandwhich{
+    background-color: rgb(197, 207, 207);
+}
+#Pizza{
+    background-color: rgb(109, 117, 109);
+
+}
+#Burger{
+    background-color:ghostwhite
+    
+
+}
+#sides{
+    background-color: rgb(156, 168, 156);
+
+}
+
+.burger text{
+    color:rgb(60, 49, 49);
+}
